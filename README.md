@@ -1,4 +1,4 @@
-![source](https://github.com/Vincent4440/LineageOS_Munch_Releases/raw/main/picture.png)
+![source](https://github.com/Vincent4440/DerpFest_Munch_Releases/raw/main/picture.png)
 
  ## Note !! -
 1. Firmware is built-in
@@ -12,14 +12,14 @@
 5. fastboot reboot recovery
 6. Click on "Factory Reset" on Recovery because you are changing rom
 7. Click on "Apply Update"
-8. Type "adb sideload PixelExtended-x.x_munch-xx.0-xxxxxxx-xxxx-UNOFFICIAL.zip" in you cli
+8. Type "adb sideload DerpFest-13-Community-Tango-munch-xxxxxx-xxxx.zip" in you cli
 9. now reboot
 
  ## Instructions to update for existing users -
 1. adb reboot fastboot
 2. fastboot reboot recovery
 3. Click on "Apply Update"
-4. Type "adb sideload PixelExtended-x.x_munch-xx.x-xxxxxxx-xxxx-UNOFFICIAL.zip" in you cli
+4. Type "adb sideload DerpFest-13-Community-Tango-munch-xxxxxx-xxxx.zip" in you cli
 5. Now reboot
 
  ## Instructions to flash using twrp/ofox -
@@ -30,7 +30,7 @@
 5. Now reboot
 
 ## Downloads -
-https://github.com/Vincent4440/LineageOS_Munch_Releases/releases
+https://github.com/Vincent4440/DerpFest_Munch_Releases/releases
 
 ## Donate -
 <a href="https://www.paypal.me/vinc3ntexe/"><img src="blue.svg" height="40"></a>  
