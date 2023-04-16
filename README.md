@@ -5,16 +5,17 @@
 2. Clean Flash is compulsory if coming from any version of MIUI or any other custom ROM.
 
  ## Instructions to flash using twrp/ofox -
-1. Have unlocked bootloader
-2. Reboot to ofox/twrp
-3. Flash rom
-4. Format data
-5. Now reboot
+- Use official twrp or official ofox.
+- Flash the rom (tick reflash recovery)
+- Reboot to recovery
+- Wipe Data
+- Reboot
+- Profit ✨
 
  ## Instructions to update for existing users -
-1. reboot to ofox/twrp
-2. flash rom 
-3. reboot
+- Reboot to official twrp or official ofox.
+- Flash the rom (tick reflash recovery)
+- Reboot
 
 ## Downloads -
 https://github.com/Vincent4440/DerpFest_Munch_Releases/releases
