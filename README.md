@@ -10,7 +10,6 @@
 - Reboot to recovery
 - Wipe Data
 - Reboot
-- Profit ✨
 
  ## Instructions to update for existing users -
 - Reboot to official twrp or official ofox.
